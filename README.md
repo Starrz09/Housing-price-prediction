@@ -47,15 +47,17 @@ This project tackles the classic machine learning challenge of predicting house 
 | RandomForest | 0.9821      | 0.8787     | 0.1388  |
 | XGBoost      | 0.9996      | 0.8830     | 0.1363  |
 | LightGBM     | 0.9900      | 0.8958     | 0.1286  |
-| CatBoost | 0.9808  | 0.9155 | 0.1129 |
+| CatBoost     | 0.9808      | 0.9155     | 0.1129 |
 
 📈 Feature Importance
 Top features influencing price:
 - QualSF
+- OverallCond
 - GrLivArea
 - TotalSF
 - Neighborhood_Category
 - OverallQual
+- KitchenQual
 
 📤 Submission
 - Predictions are log-transformed and inverse-transformed before submission.
@@ -63,7 +65,6 @@ Top features influencing price:
 
 👤 Author
 Lawal Habeeb
+Pharmacist and Aspiring data scientist
 GitHub: Starrz09
 email: habeebobashola09@gmail.com
-📄 License
-This project is licensed under the MIT Lic
