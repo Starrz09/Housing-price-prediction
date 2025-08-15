@@ -62,9 +62,13 @@ Top features influencing price:
 📤 Submission
 - Predictions are log-transformed and inverse-transformed before submission.
 - Final output: submission.csv with Id and SalePrice.
+- Submission public score : 17217.06
 
 👤 Author
 Lawal Habeeb
+
 Pharmacist and Aspiring data scientist
+
 GitHub: Starrz09
+
 email: habeebobashola09@gmail.com
